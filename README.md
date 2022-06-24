@@ -1,4 +1,4 @@
-# Doom.Vault
+# Doom Vault
 
 ## About
 This repository is designed to archive the DOS files for all of the Doom engine games. 
