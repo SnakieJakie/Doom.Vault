@@ -36,6 +36,6 @@ Since GitHub doesn't allow you to download entire directories, I'll just provide
 # Other stuff
 If you don't want to buy any of these games and want an demo, [there's an entire repository of the Shareware versions of these games.](https://github.com/Doom-Utils/shareware-collection)  The WAD files in those should run on any source port.
 
-If you hate how the player move with the mouse, try using [Novert.](https://www.doomworld.com/idgames/utils/misc/novert)
+If you hate how the player moves with the mouse, try using [Novert.](https://www.doomworld.com/idgames/utils/misc/novert)
 
 There's an version of Doom 2's EXE that raises the original limitations, called [Doom 2 Plus.](https://sourceforge.net/projects/prboom-plus/files/doom2-plus/1.92.6/doom2-plus-1.92.6.zip/download) This allows you to play most limit-removing WADS, like No Rest For The Living.
